@@ -64,14 +64,10 @@ python manage.py runserver
 Access the application at http://127.0.0.1:8000/
 
 
+----------
 Done By: Ninad Hapase
 
-Div: J
-
-Roll No.: 37
 
 Pimpri Chinchwad University
 
-Guided by: Mr. Chandan Prasad
 
-Faculty Guided: Mrs. Ruchira Karanjikar
